@@ -1095,12 +1095,12 @@ header .row {
 }
 header .top-bar {
 	display: block;
-	background: #000000;
-	min-width: 220px;
-	min-height: 66px;
-	position: absolute;
-	left: 90px;
-	top: 0;
+    background: #000000;
+    min-width: 220px;
+    min-height: 70px;
+    position: absolute;
+    left: 90px;
+    top: 0;
 }
 header .logo {
 	float: left;
@@ -1111,16 +1111,16 @@ header .logo {
 }
 header .logo a {
 	display: block;
-	margin: 0;
-	padding: 0;
-	border: none;
-	font: 0/0 a;
-	text-shadow: none;
-	color: transparent;
-	width: 92px;
-	height: 15px;
-	background: url("../images/logo.png") no-repeat center;
-	background-size: 92px 15px;
+    margin: 0;
+    padding: 0;
+    border: none;
+    font: 0/0 a;
+    text-shadow: none;
+    color: transparent;
+    width: 100px;
+    height: 25px;
+    background: url(../images/logo.png) no-repeat center;
+    margin-bottom: 10px;
 }
 
 /**
